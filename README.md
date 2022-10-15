@@ -1,6 +1,6 @@
 # Final Project: MERN Stack Single-Page Application
 
-# A social Network App with MERN called: AfriConnect
+# A social Network App with MERN Stack called: AfriConnect
 
 Projects have played a key role in your journey to becoming a full-stack web developer. As you apply for development jobs, your portfolio is absolutely vital to opening doors to opportunities. Your portfolio showcases high-quality deployed examples of your work, and you can use your finished projects for that very purpose.
 
